@@ -3,7 +3,7 @@ import socket
 import sys
 import thread
 
-print(' ' + ' ' + ' 
+print(' 
       
        ############ DDOS-SCRIPT #############
      ##################         ################ 
