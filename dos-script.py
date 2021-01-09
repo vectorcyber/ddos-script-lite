@@ -4,7 +4,6 @@ import sys
 import thread
 
 print(' 
-      
        ############ DDOS-SCRIPT #############
      ##################         ################ 
       ### create by @victor_cyber in #rubika ###
