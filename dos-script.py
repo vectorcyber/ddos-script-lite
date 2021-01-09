@@ -3,7 +3,7 @@ import socket
 import sys
 import thread
 
-print(" ############ DDOS-SCRIPT ############# ")
+print(Fore.GREEN+" ############ DDOS-SCRIPT ############# ")
 print("########### create by @victor_cyber #rubika ######## ")
      
 site = raw_input("Enter your site url = ")
