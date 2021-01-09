@@ -4,6 +4,7 @@ import sys
 import thread
 
 print(" ############ DDOS-SCRIPT ############# ")
+print("########### create by @victor_cyber #rubika ######## ")
      
 site = raw_input("Enter your site url = ")
 thread_count = input("Enter your thread = ")
