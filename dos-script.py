@@ -2,17 +2,7 @@ import time
 import socket
 import sys
 import thread
-print(Fore.GREEN+'''
-            #################################################
-            #################################################
-            ##########     DDOS ATTACK            ##########
-            ############ CreaTed BY @VICTOR_CYBER ‌ ‌##########
-            ############        ############
-            ############     ###########
-            #################################################
-            #################################################
 
-''')
 site = raw_input("Enter your site url = ")
 thread_count = input("Enter your thread = ")
 
