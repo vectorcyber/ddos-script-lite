@@ -3,6 +3,15 @@ import socket
 import sys
 import thread
 
+print (' ' + ' ' + ' 
+      
+       ############ DDOS-SCRIPT #############
+     ##################         ################ 
+      ### create by @victor_cyber in #rubika ###
+       ######### ######## WE LOVE IRAN #######
+            #######                #######
+' + ' ')
+
 site = raw_input("Enter your site url = ")
 thread_count = input("Enter your thread = ")
 
